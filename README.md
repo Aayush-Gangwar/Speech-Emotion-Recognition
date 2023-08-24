@@ -42,7 +42,7 @@ After tuning the model, tested it out by predicting the emotions for the test da
 
 ## Testing out with live voices.
 You can test your own voice by deployed website : 
-[Speech Emotion Recognition Web]([images/livevoice.PNG?raw=true](https://share.streamlit.io/11happy/prml_course_project/main/app.py))
+[Speech Emotion Recognition Web](https://11happy-prml-course-project-app-87l83l.streamlit.app/)
 
 ## Conclusion
 Building the models was a challenging task as it involved lot of trail and error methods, tuning etc. The model was tuned to detect emotions with more than 70% accuracy. Accuracy can be increased by including more audio files for training.
