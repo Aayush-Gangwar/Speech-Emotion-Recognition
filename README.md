@@ -21,7 +21,7 @@ For feature extraction we make use of the [**LibROSA**](https://librosa.github.i
 
 - ### FREQUENCY DOMAIN FEATURES:
     - Mel spectogram features  
-    - MFCC (Mel frequency cepstral coefficients)
+    - Chroma energy distribution normalised statistics (CENS)
 - Mel frequency cepstral coefficients (MFCC)
 
 ## Building Models
